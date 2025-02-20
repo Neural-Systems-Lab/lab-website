@@ -1,81 +1,12 @@
 ---
 ---
-
-# Neural-Systems-Lab's Website
-
-An engaging 1-3 sentence description of your lab.
+Research in the Neural Systems Lab at the University of Washington focuses on understanding the brain using computational models and simulations, and applying this knowledge to the task of developing human-like artificial intelligence (AI) and brain-computer interfaces (BCIs). 
+We utilize data and techniques from a variety of fields, ranging from neuroscience and psychology to artificial intelligence, machine learning and statistics. Current efforts are focused on: 
+- Hierarchical predictive coding and probabilistic models to understand the brain,
+- Neuroscience-inspired general AI frameworks for vision and reinforcement learning, and
+- BCIs and brain co-processors that utilize AI to interact with brain circuits to restore and augment human function.
 
 {% include section.html %}
 
-## Highlights
+## Recent News
 
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="research"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
-  text=text
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
-  text=text
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="team"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
-  text=text
-%}
