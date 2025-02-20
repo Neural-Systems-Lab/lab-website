@@ -5,6 +5,6 @@
 
   # Neural-Systems-Lab's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[neural-systems-lab.github.io/lab-website](https://neural-systems-lab.github.io/lab-website)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
