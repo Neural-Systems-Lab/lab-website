@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Press
 
-Please contact [PI Rao]({{ site.baseurl }}{% link _members/rajesh-rao.md %}) for press inquiries.
+Please contact [PI Rao]({% link _members/rajesh-rao.md %}) for press inquiries.
 
 {% include section.html %}
 
