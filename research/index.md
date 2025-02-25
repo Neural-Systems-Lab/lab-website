@@ -16,12 +16,12 @@ Computational neuroscience offers a new way to understand the brain by leveragin
 {% capture text %}
 
 - Predictive coding and Bayesian brain models
-- Models for perceptual and social decision making based on partially observable Markov decision processes (POMDPs) 
+- Models for ehavior and cognition based on partially observable Markov decision processes (POMDPs) 
 - Hierarchical recurrent neural networks implementing the above models
 
 {% endcapture %}
 
-{% include feature.html image="images/apc.png" link="research" text=text %}
+{% include feature.html image="images/research/apc.png" link="research" text=text %}
 
 ## Brain-Computer Interfaces
 
@@ -32,8 +32,8 @@ Brain-computer interfaces (BCIs) are devices that connect brains directly to com
 - Brain co-processors: This project utilizes artificial intelligence to adaptively deliver stimulation and compute control signals as a function of the brain's ongoing neural activity and external sensory signals.
 - Naturalistic BCIs: This project uses deep learning methods to improve decoding of brain signals in naturalistic settings.
 - Decoding pain and mood: This project seeks to identify neural biomarkers for pain and mood.
-- Modeling electrical stimulation: This project models the effects of therapeutic electrical stimulation. 
+- Modeling electrical stimulation: This project models the effects of therapeutic electrical stimulation using AI and machine learning techniques, and uses these models for developing brain co-processors. 
 
 {% endcapture %}
 
-{% include feature.html image="images/bci.png" link="projects" flip=true style="bare" text=text %}
+{% include feature.html image="images/research/bci.png" link="projects" flip=true style="bare" text=text %}

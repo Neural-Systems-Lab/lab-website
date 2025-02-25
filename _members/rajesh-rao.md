@@ -6,13 +6,14 @@ description: Hwang Professor in the Paul G. Allen School of Computer Science & E
 links:
   home-page: https://www.rajeshpnrao.com/
   email: rao@cs.washington.edu
-  # orcid: 0000-0001-8713-9213
+  google-scholar: 02nHF0gAAAAJ
+  twitter: rajeshpnrao
+  linkedin: rajesh-p-n-rao-2a9b6687
+  instagram: rajeshpnrao
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+## Bio
+
+Rajesh P. N. Rao is the CJ and Elizabeth Hwang Professor in the Paul G. Allen School of Computer Science & Engineering and Department of Electrical & Computer Engineering at the University of Washington (UW), Seattle. He is also the co-Director of the Center for Neurotechnology (CNT), Adjunct Professor in the Bioengineering department, and faculty member in the Neuroscience Graduate Program at UW. He directs the Neural Systems Laboratory located in the Paul G. Allen Center for Computer Science and Engineering. His awards include a Guggenheim Fellowship, an IEEE Fellow award, a Fulbright Scholar award, an NSF CAREER award, an ONR Young Investigator Award, a Sloan Faculty Fellowship, and a David and Lucile Packard Fellowship.
+
+His research interests span computational neuroscience, brain-computer interfaces, and artificial intelligence as well as the Indus script and classical Indian paintings.

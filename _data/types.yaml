@@ -62,7 +62,7 @@ phone:
 
 address:
   icon: fa-solid fa-map-location-dot
-  text: Address
+  text: CSE 302 & 306, Paul G. Allen Center for Computer Science & Engineering, UW
   tooltip: Address
 
 search:
