@@ -1,7 +1,7 @@
 ---
 name: Rajesh P. N. Rao
 image: images/people/rao.jpg
-role: pi
+role: principal-investigator
 description: Hwang Professor in the Paul G. Allen School of Computer Science & Engineering, and co-Director of the Center for Neurotechnology
 links:
   home-page: https://www.rajeshpnrao.com/
