@@ -11,7 +11,7 @@ Please contact [PI Rao]({% link _members/rajesh-rao.md %}) for press inquiries.
 
 {% include section.html %}
 
-<!-- {% include search-box.html %} -->
+{% include search-box.html %}
 
 {% include tags.html tags=site.tags %}
 
