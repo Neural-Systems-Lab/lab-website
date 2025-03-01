@@ -18,7 +18,6 @@ undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
 
-
 programmer:
   icon: fa-solid fa-code
   description: Programmer
