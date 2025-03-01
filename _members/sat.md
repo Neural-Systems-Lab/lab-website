@@ -1,6 +1,6 @@
 ---
 name: Satpreet (Sat) Singh
-image: images/people/jiang.jpeg
+image: images/people/sat.jpg
 group: alum
 role: phd
 description: PhD Student, Electrical and Computer Engineering
