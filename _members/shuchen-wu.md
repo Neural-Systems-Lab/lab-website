@@ -1,6 +1,6 @@
 ---
 name: Shuchen Wu
-image: images/people/wu.jpg
+image: images/people/wu.jpeg
 role: postdoc
 description: Postdoctoral Researcher, Shannahan Fellow
 links:
