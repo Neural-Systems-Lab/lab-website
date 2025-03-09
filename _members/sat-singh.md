@@ -3,7 +3,7 @@ name: Satpreet (Sat) Singh
 image: images/people/sat.jpg
 group: alum
 role: phd
-description: PhD Student, Electrical and Computer Engineering
+description: Electrical and Computer Engineering
 links:
   home-page: https://satpreetsingh.github.io
   email: satpreetsingh@gmail.com

@@ -1,12 +1,9 @@
 ---
-name: Jeff Ojemann
+name: Prof. Jeff Ojemann, M.D.
 image: images/people/ojemann.jpg
 group: collaborator
 role:
-description:
+description: Seattle Children's Hospital
 links:
-  home-page: 
-  email: 
+  home-page: https://depts.washington.edu/gridlab1/
 ---
-
-## Bio

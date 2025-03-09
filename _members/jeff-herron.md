@@ -1,12 +1,9 @@
 ---
-name: Jeff Herron
+name: Prof. Jeff Herron, Ph.D.
 image: images/people/herron.jpg
 group: collaborator
 role:
-description:
+description: Department of Neurological Surgery
 links:
-  home-page: 
-  email: 
+  home-page: https://sites.uw.edu/jeffherr/
 ---
-
-## Bio

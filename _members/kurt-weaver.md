@@ -1,12 +1,9 @@
 ---
-name: Kurt Weaver
+name: Prof. Kurt Weaver, Ph.D.
 image: images/people/kurt.png
 group: collaborator
 role:
-description:
+description: Department of Radiology
 links:
-  home-page: 
-  email: 
+  home-page: https://depts.washington.edu/gridlab1/
 ---
-
-## Bio

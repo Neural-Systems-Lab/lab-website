@@ -13,7 +13,20 @@ After cloning this repo, run the following commands to preview the website local
 3. Click the base URL shown in the terminal. 
 
 ## Adding a member
-Add a `firstname-lastname.md` file in the `_members` folder. Place the photo under `images/people/lastname.jpg`. An example:
+Add a `firstname-lastname.md` file in the `_members` folder. Place the photo under `images/people/lastname.jpg`. These fields must exist:
+```md
+---
+name: Preston Jiang
+image: images/people/jiang.jpeg
+role: phd
+description: PhD Student, Computer Science & Engineering
+links:
+  home-page: https://lpjiang97.github.io/
+---
+```
+
+**Note:** When you provide a `home-page` under `links`, the website will redirect to that page when you click on the member's profile. If you don't have a personal website, you can further update your `md` page to include more information. For example,
+
 ```md
 ---
 name: Preston Jiang
@@ -29,7 +42,7 @@ links:
 ---
 
 ## Bio
-blah blah
+(include more info using standard markdown)
 ```
 
 ### If graduated :(

@@ -14,9 +14,8 @@ nav:
 {% include list.html data="members" component="portrait" filter="role == 'phd' and group != 'alum'" %}
 {% include list.html data="members" component="portrait" filter="role == 'undergrad' and group != 'alum'" %}
 
-
-## Alumni
-{% include list.html data="members" component="portrait" filter="group == 'alum'" %}
-
 ## Collaborators
 {% include list.html data="members" component="portrait" filter="group == 'collaborator'" %}
+
+## Alumni (since 2021)
+{% include list.html data="members" component="portrait" filter="group == 'alum'" %}

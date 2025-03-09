@@ -1,12 +1,9 @@
 ---
-name: Nick Steinmetz
+name: Prof. Nick Steinmetz, Ph.D.
 image: images/people/nick.jpg
 group: collaborator
 role:
-description:
+description: Department of Neurobiology & Biophysics
 links:
-  home-page: 
-  email: 
+  home-page: https://www.nicksteinmetz.com/
 ---
-
-## Bio
