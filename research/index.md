@@ -37,3 +37,23 @@ Brain-computer interfaces (BCIs) are devices that connect brains directly to com
 {% endcapture %}
 
 {% include feature.html image="images/research/bci.png" link="projects" flip=true style="bare" text=text %}
+
+## Artificial Intelligence and Reinforcement Learning
+
+Our lab focuses on developing neurally inspired AI algorithms that leverage insights from computational models of the brain. We aim to design AI systems that are more adaptive, interpretable, and capable of solving complex real-world problems. Our recent research includes:
+
+{% capture text %}
+
+- Active Predictive Coding: Developing dynamic, hierarchical world models that learn to compose simple dynamics, enabling AI to tackle complex tasks in vision and navigation.
+- Visual Reinforcement Learning for Grounded Decision-Making: Investigating how reinforcement learning (RL) agents perceive and interpret their environments when making decisions.
+- Active Inference and Successor Representations for Navigation: Integrating active inference with successor representations to create more flexible and efficient navigation strategies.
+- Using AI to analyze the Indus script and art 
+{% endcapture %}
+<!-- 
+- Active Predictive Coding: Learning dynamic and hierarchical world models to compose simple dynamics and solve complex problems in vision and navigation.
+- Visual Reinforcement Learning for grounded decision making: We try to answer what an RL agent is looking at, when taking decisions.
+- Active Inference and Successor Representation for navigation.
+- Using AI to analyze the Indus script and art -->
+
+
+{% include feature.html image="images/research/apc2.png" link="projects" style="bare" text=text %}
