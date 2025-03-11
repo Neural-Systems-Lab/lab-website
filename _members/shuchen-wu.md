@@ -4,7 +4,7 @@ image: images/people/wu.jpeg
 role: postdoc
 description: Postdoctoral Researcher, Shannahan Fellow
 links:
-  home-page: swu32@github.io
+  home-page: https://swu32.github.io
   email: shuchen.wu@alleninstitute.org
   twitter: shuchen_wu
   github: swu32
