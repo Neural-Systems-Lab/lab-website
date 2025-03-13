@@ -4,7 +4,7 @@
 
 # Neural Systems Lab's Website
 
-current website (not yet published to cse server) **[neural-systems-lab.github.io/lab-website](https://neural-systems-lab.github.io/lab-website)** 🚀
+current website (not yet published to cse server) **[neural.cs.washington.edu](http://neural.cs.washington.edu)** 🚀
 
 ## Setup
 After cloning this repo, run the following commands to preview the website locally:
