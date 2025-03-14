@@ -5,6 +5,14 @@
   | data_filter: include.filter
 %}
 
+{% if include.data == "news" %}
+  {% assign data = data | sort: "path" | reverse %}
+{% endif %}
+
+{% if include.limit %}
+  {% assign data = data | slice: 0, include.limit %}
+{% endif %}
+
 {% assign years = data
   | group_by_exp: "d", "d.date | date: '%Y'"
   | sort: "name"

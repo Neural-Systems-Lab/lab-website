@@ -10,4 +10,4 @@ Research in the Neural Systems Lab at the University of Washington focuses on un
 
 ## Recent News
 
-{% include list.html data="news" component="post-excerpt" %}
+{% include list.html data="news" component="post-excerpt" limit=5 %}
