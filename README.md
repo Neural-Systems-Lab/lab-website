@@ -9,7 +9,7 @@ current website (not yet published to cse server) **[neural.cs.washington.edu](h
 ## Setup
 After cloning this repo, run the following commands to preview the website locally:
 1. Install [Docker](https://docs.docker.com/get-docker/)
-2. Run `./.docker/run.sh`
+2. Make sure Docker is running, and run `./.docker/run.sh`
 3. Click the base URL shown in the terminal. 
 
 ## Adding a member
