@@ -7,13 +7,17 @@
 current website (not yet published to cse server) **[neural.cs.washington.edu](https://neural.cs.washington.edu)** 🚀
 
 ## Setup
+
 After cloning this repo, run the following commands to preview the website locally:
+
 1. Install [Docker](https://docs.docker.com/get-docker/)
 2. Make sure Docker is running, and run `./.docker/run.sh`
-3. Click the base URL shown in the terminal. 
+3. Click the base URL shown in the terminal.
 
 ## Adding a member
+
 Add a `firstname-lastname.md` file in the `_members` folder. Place the photo under `images/people/lastname.jpg`. An example:
+
 ```md
 ---
 name: Preston Jiang
@@ -45,10 +49,13 @@ links:
 ```
 
 ### If graduated :(
+
 Add `group: alum` to the frontmatter.
 
 ## Adding a press article
+
 Add a `YYYY-MM-DD-title.md` file in the `_press` folder. Use `tags` to add relevant keywords. An example:
+
 ```md
 ---
 title: "To Be Energy-Efficient, Brains Predict Their Perceptions"
@@ -59,7 +66,9 @@ Raj's predictive coding theory is discussed in this [Quanta article](https://www
 ```
 
 ## Adding a news snippet
+
 Add a `YYYY-MM-DD-title.md` file in the `_news` folder. An example:
+
 ```md
 ---
 title: Welcome, Dr. Shuchen Wu!

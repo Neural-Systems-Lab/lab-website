@@ -27,10 +27,10 @@
 
 :root {
   // font families
-  --title: "Helvetica", sans-serif;
-  --heading: "Helvetica", sans-serif;
-  --body: "Helvetica", sans-serif;
-  --code: "Roboto Mono", monospace;
+  --title: "Inter", "Segoe UI", system-ui, sans-serif;
+  --heading: "Inter", "Segoe UI", system-ui, sans-serif;
+  --body: "Inter", "Segoe UI", system-ui, sans-serif;
+  --code: "JetBrains Mono", "Roboto Mono", monospace;
 
   // font sizes
   --large: 1.2rem;
