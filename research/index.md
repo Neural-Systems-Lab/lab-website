@@ -9,7 +9,7 @@ nav:
 
 **{% include icon.html icon="fa-solid fa-graduation-cap" %}[Google Scholar](https://scholar.google.com/citations?user=02nHF0gAAAAJ)** - Complete list of the lab's publications.
 
-**{% include icon.html icon="fa-solid fa-database" %}[ Open Datasets]({{ site.baseurl }}/research/data/)** - Access our open-source datasets and request data for your research.
+**{% include icon.html icon="fa-solid fa-database" %}[ Open Datasets]({{ site.baseurl }}/research/data)** - Access our open-source datasets and request data for your research.
 
 ## Computational Neuroscience
 
