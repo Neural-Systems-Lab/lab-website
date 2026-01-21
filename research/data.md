@@ -22,7 +22,7 @@ Peterson, S.M., Singh, S.H., Dichter, B. et al. AJILE12: Long-term naturalistic 
 
 - [DANDI Archive](https://dandiarchive.org/dandiset/000055)
 - [Interactive Dashboard](https://github.com/BruntonUWBio/ajile12-nwb-data)
-- To request additional raw data, please fill out this [form](https://forms.gle/4bsNQnLExZ7ZCuTK9).
+- To request processed data from additional subjects, please fill out this [form](https://forms.gle/4bsNQnLExZ7ZCuTK9).
 
 {% endcapture %}
 
