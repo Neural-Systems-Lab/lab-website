@@ -4,7 +4,7 @@
 
 # Neural Systems Lab's Website
 
-current website (not yet published to cse server) **[neural.cs.washington.edu](https://neural.cs.washington.edu)** 🚀
+Current website is hosted through CSE at **[neural.cs.washington.edu](https://neural.cs.washington.edu)** 🚀
 
 ## Setup
 
